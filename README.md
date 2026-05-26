@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/e13339da-a0ca-4d21-b53f-c693937ba272" height="19" alt="trading icon"> Testing of the Capital.com web application
 
-Во время интенсива SandBox я погрузился в реальный процесс тестирования сайта Capital.com!
+Во время интенсива SandBox я погрузился в реальный процесс тестирования сайта <a href="https://capital.com/en-int"> Capital.com </a>!
 Ежедневно проводил ad‑hoc‑тестирование отдельных разделов сайта - с фокусом на конкретный язык интерфейса и лицензию. В обязанности входило:
 <ul>
   <li> подготовка детализированных <a href="https://docs.google.com/spreadsheets/d/1FFMJEg57SFY2b8eqZbzXaq0O3lre_H4SToXu2zd8ug8/edit?usp=sharing">баг‑репортов</a>; </li>

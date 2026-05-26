@@ -9,4 +9,5 @@
   <li> выполнение практического <a href="https://docs.google.com/document/d/1lUMp-bjflW7DL55RtuW7UnnH7Oolpu6skk-MefNYjOA/edit?usp=sharing">задания по SQL</a>; </li>
   <li> разработка <a href="https://drive.google.com/drive/folders/1WTK4RwhPP_ZpeRkVCUw9VhlKSR0dQ2Dg?usp=sharing">мини‑проекта</a> — HTML‑страницы, посвящённой личному хобби. </li>
 </ul>
+
 Опыт дал мне отличную практику в QA и укрепил навыки командной работы.
